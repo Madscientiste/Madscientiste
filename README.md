@@ -72,7 +72,7 @@
 </table>
 
 ```Backend```
-> Note: i mentionned PHP, however i bearly "programmed" with it, it was mostly configurations.
+> Note: I mentionned "PHP" but i bearly "programmed" with it, it was mostly configurations.
 
 <table>
     <thead>
