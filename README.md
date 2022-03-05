@@ -59,12 +59,12 @@
         </tr>
         <tr>
             <th>
-                <a href="https://bulma.io/">BULMA</a>
-            </th>
-            <th>
                 <a href="https://tailwindcss.com/">TAILWIND</a>
             </th>
-            <th colspan="99">
+            <th>
+                <a href="https://bulma.io/">BULMA</a>
+            </th>
+            <th colspan="3">
                 <a href="https://mantine.dev/">MANTINE</a>
             </th>
         </tr>
