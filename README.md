@@ -72,8 +72,6 @@
 </table>
 
 ```Backend```
-> Note: I mentionned "PHP" but i bearly "programmed" with it, it was mostly configurations.
-
 <table>
     <thead>
         <tr>
