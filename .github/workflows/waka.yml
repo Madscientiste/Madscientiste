@@ -1,0 +1,23 @@
+name: Waka
+
+on:
+  # run automatically at the end of every day
+  schedule:
+    - cron: "0 0 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the master branch
+  push:
+    branches:
+      - master
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI }}
