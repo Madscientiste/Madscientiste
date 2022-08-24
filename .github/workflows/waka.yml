@@ -22,7 +22,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI }}
           SHOW_MASKED_TIME: true
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
           BLOCKS: "_/|"
