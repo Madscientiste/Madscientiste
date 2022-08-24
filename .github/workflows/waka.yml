@@ -1,4 +1,4 @@
-name: Waka
+name: generate waka stats
 
 on:
   # run automatically at the end of every day
