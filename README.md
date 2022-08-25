@@ -4,7 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 1 hr 13 mins
+
+Markdown   51 mins         |||||||||||||||||/_______   70.88 %
+YAML       21 mins         |||||||/_________________   29.12 %
 ```
 
 <!--END_SECTION:waka-->
