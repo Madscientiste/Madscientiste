@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 hrs 7 mins
+Total Time: 20 hrs 46 mins
 
-PHP          10 hrs 4 mins   ||||||||||||||/__________   58.85 %
-Python       3 hrs 46 mins   |||||/___________________   22.09 %
-TypeScript   1 hr 39 mins    ||/______________________   09.68 %
-Markdown     51 mins         |/_______________________   05.06 %
-YAML         21 mins         /________________________   02.07 %
-Other        11 mins         /________________________   01.10 %
+PHP          10 hrs 29 mins  ||||||||||||/____________   50.48 %
+TypeScript   4 hrs 43 mins   |||||/___________________   22.76 %
+Python       3 hrs 46 mins   ||||/____________________   18.20 %
+Markdown     51 mins         |________________________   04.17 %
+YAML         21 mins         /________________________   01.71 %
+JSON         11 mins         _________________________   00.94 %
 ```
 
 <!--END_SECTION:waka-->
