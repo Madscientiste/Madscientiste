@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 25 hrs 19 mins
+Total Time: 23 hrs 27 mins
 
-TypeScript   22 hrs 12 mins  ||||||||||||||||||||||___   87.68 %
-Python       2 hrs 35 mins   ||/______________________   10.26 %
-PHP          12 mins         _________________________   00.81 %
-Text         7 mins          _________________________   00.50 %
-JSON         4 mins          _________________________   00.29 %
-HTML         3 mins          _________________________   00.23 %
+TypeScript   17 hrs 6 mins   ||||||||||||||||||_______   72.95 %
+Python       4 hrs 10 mins   ||||/____________________   17.80 %
+PHP          47 mins         |________________________   03.37 %
+AutoHotkey   38 mins         /________________________   02.72 %
+PowerShell   17 mins         /________________________   01.27 %
+Text         14 mins         /________________________   01.03 %
 ```
 
 <!--END_SECTION:waka-->
