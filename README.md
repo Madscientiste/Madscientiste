@@ -1,7 +1,3 @@
-# Greetings fellow sorcerers! 🧙‍♂️
-
-Here you will find a collection of my incantations in the form of code, projects, and contributions to the community 📌
-
 currently i don't have much to showcase, but it will come eventually ... 
 
 ---
